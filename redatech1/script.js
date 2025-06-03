@@ -175,7 +175,7 @@ async enviarParaAPI(prompt) {
 
   getApiKey() {
     // Em produção, substitua por uma chamada a um backend seguro
-    return "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";
+    return "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";
   }
 
   toggleLoading(loading) {
